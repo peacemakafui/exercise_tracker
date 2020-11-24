@@ -1,4 +1,4 @@
 # exercise_tracker
-learning project to understand crud in a web app
+A crud application to demonstrate the use of nodejs and react to develop an exercise tracking application
 
-built with react node and mongodb
+
